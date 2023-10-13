@@ -16,4 +16,3 @@ Issue: #[Issue_Number](Link_to_Issue)
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update.
 
 <!-- You can remove or add additional checklist items as needed. -->
-
